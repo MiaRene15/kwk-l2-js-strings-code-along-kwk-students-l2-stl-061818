@@ -6,5 +6,5 @@ let welcomeMessage = "Welcome to Klossybook, " + currentUser + "!"
 
 let excitedWelcomeMessage = welcomeMessage.toUpperCase()
 
-let shortGreeting = welcomeMessage.charAt(0-7)
+let shortGreeting = welcomeMessage.charAt(0 + 1 )
 
