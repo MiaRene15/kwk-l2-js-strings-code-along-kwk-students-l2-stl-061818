@@ -4,5 +4,5 @@ let currentUser = "Mia"
 
 let welcomeMessage = "Welcome to Klossybook, " + currentUser + "!"
 
-let excitedWelcomeMessage = "Welcome to Klossybook".toUpperCase + currentUser + "!"
+let excitedWelcomeMessage = welcomeMessage.toUpperCase
 
