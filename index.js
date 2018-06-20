@@ -4,3 +4,4 @@ let currentUser = "Mia"
 
 let welcomeMessage = currentUser = "Welcome to Klossybook, " + "!"
 
+let excitedWelcomeMessage = 
